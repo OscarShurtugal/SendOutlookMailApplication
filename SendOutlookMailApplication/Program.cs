@@ -10,6 +10,7 @@ namespace SendOutlookMailApplication
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
