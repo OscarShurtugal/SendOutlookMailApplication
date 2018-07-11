@@ -1,0 +1,7 @@
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\bin\Debug\SendOutlookMailApplication.exe.config
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\bin\Debug\SendOutlookMailApplication.exe
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\bin\Debug\SendOutlookMailApplication.pdb
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\obj\Debug\SendOutlookMailApplication.csprojAssemblyReference.cache
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\obj\Debug\SendOutlookMailApplication.csproj.CoreCompileInputs.cache
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\obj\Debug\SendOutlookMailApplication.exe
+C:\Users\oscarsanchez2\Source\Repos\SendOutlookMailApplication\SendOutlookMailApplication\obj\Debug\SendOutlookMailApplication.pdb
